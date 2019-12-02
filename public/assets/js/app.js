@@ -42,4 +42,4 @@ eaten: ${confirmEatState.devour}`);
         );
     });
 
-})
+}) 
