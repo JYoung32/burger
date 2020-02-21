@@ -38,7 +38,7 @@ I normally would include links, plus a description of technologies used (if appl
 
 ----
 
-## Upcomming Changes
+## Upcoming Changes
 
 
 ----
