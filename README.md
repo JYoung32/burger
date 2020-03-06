@@ -4,7 +4,9 @@ Eat-The-Burger is a logging application that allows a user to input a burger nam
 
 ## Link to page
 
-https://murmuring-depths-00456.herokuapp.com/
+https://murmuring-depths-00456.herokuapp.com/  
+  
+![GIF example](./public/assets/img/eat-the-burger-example.gif)
 
 ## Technologies Used
 * HTML
